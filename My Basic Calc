@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <FORM NAME="My Basic Calc">
 <TABLE BORDER=4>
 <TR>
@@ -35,3 +38,5 @@
 
 <p align="center"><font face="arial" size="-2"> </font><br>
 <font face="arial, helvetica" size="-2"></font></p>
+</body>
+</html>
